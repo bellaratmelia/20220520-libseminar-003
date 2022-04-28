@@ -1,0 +1,1152 @@
+
+
+Academic Impact of Articles by Practitioners in the Field of Library and Information Science
+
+
+Yu-Wei Chang*
+
+
+This study measured the relative academic impact of articles by LIS practitioners by analyzing library and information science articles published between 2005 and 2014. The results revealed that, although practitioners were not the main knowledge contributors, the academic impact of articles by practitioners was not significantly lower than that of articles by academics. No significant differences in academic impact were present between any two types of coauthored articles. Articles from academic–practitioner collaboration were cited earlier than articles from practitioner–practitioner and academic–academic collaborations. This study suggests that LIS practitioners appear to benefit from collaborative scholarship with LIS researchers through more citations and higher impact.
+
+
+Introduction
+
+
+Research collaboration is a strategy used to enhance research productivity (number of scholarly publications) and academic impact (number of citations received by scholarly publications). Although research productivity and academic impact are the two basic aspects of individual research performance,1 the ever-increasing number of studies on citation-related indicators2 and factors that facilitate citation counts3 indicate the importance of the academic impact of publications, and researchers pay more attention to academic impact than to research productivity. In addition to “academic impact,”4 researchers also use synonymous terms such as “scholarly influence,”5 “scholarly impact,”6 “academic influence,”7 ”scientific impact,”8 “influence,”9 and “impact.”10 To clarify the specific type of impact of a scientific work, the term “academic impact” was used in this study. “Academic” refers to the citations received from scholarly publications. “Impact” emphasizes a short amount of time elapsed from the time of an article’s publication until it is first cited in another text; this is in contrast to the term “influence,” which highlights a long-term period in which a work is cited.
+
+
+To compare academic impact among individuals, citation counts and citation-related indicators have been widely used by researchers in the field of scientometrics.11 Even though using citation counts to measure academic impact has been controversial,12 the counts are still frequently used as a proxy for academic impact. The main reason is that no other measure can more efficiently address the regular need for research evaluation.13 Numerous studies have proven that the academic impact of coauthored articles in LIS14 and other disciplines15 in terms of number of citations received is higher than that of single-authored articles. Researchers frequently investigated certain types of research collaboration, including international, interinstitutional, and interdisciplinary. Articles resulting from international collaboration have been shown to be more frequently cited than those generated from domestic collaboration.16 Articles produced through interinstitutional collaboration have greater impact than do those resulting from intrainstitutional collaboration.17 In addition, differences in academic impact exist between interdisciplinary and noninterdisciplinary collaborations.18 Clearly, researchers have examined research collaboration from diverse angles, but types of research collaboration are not limited to the differences in geographical locations and disciplinary attributes of institutions with which authors are affiliated. 
+
+
+The research collaboration facilitates mutual understanding between academics and practitioners and reduces the research–practice gap. To bridge the gap between academics and practitioners, various forums for academics and practitioners to develop dialogues and collaborative relationships have been promoted, such as conferences, workshops, collaborative projects, research training courses, and co-publications.19 As collaboration has become the norm in numerous fields, co-publication is a common type of research collaboration for researchers who have to publish. Although numerous studies have focused on the academic impact of research collaboration from the perspective of coauthorship, the academic impact of publications by practitioners has long been overlooked.
+
+
+ As practitioners are not the main contributors to scientific publications, this may justify their lower research productivity compared with academics. However, the extent that practitioners engage in research varies by discipline.20 In the field of library and information science (LIS), a substantial number of academic librarians are involved in publishing.21 Therefore, LIS was selected as the target field for this study, where librarians were found to be the main practitioner authors and LIS faculty in universities are the typical academic authors.22 The following statements are limited to the LIS practitioners.
+
+
+Numerous LIS studies have demonstrated the publication patterns of librarians23 and highlighted the barriers they face in conducting and publishing research.24 However, there is little literature on the academic impact of these publications. Although LIS studies have reported that LIS practitioners are not the main contributors to scientific publications,25 it cannot be assumed that publications by academics have higher academic impact than those by practitioners because numerous factors affect academic impact.26 Thus, because such impact is valued by academics and other people involved in research and publishing, this study explored the positive outcomes from the academic impact of publications contributed by practitioner authors. If the academic impact of articles by practitioners is not determined to be lower than that of articles by academics, practitioners’ confidence in contributing to research and publishing could be boosted and collaborative opportunities between academics and practitioners may be enhanced. Furthermore, if evidence indicates that the academic impact of articles coauthored by only practitioners is higher than that of single-authored articles by one practitioner, practitioners may be encouraged to seek collaborations in their research and writing. 
+
+
+The research questions addressed in this study are as follows:
+
+
+Q1: Are coauthored articles cited more often than single-authored articles?
+
+
+Q2: Are articles coauthored by only LIS academic researchers cited more frequently than those authored by LIS academics and LIS practitioners or by only LIS practitioners?
+
+
+Q3: Are articles coauthored by only academic researchers cited earlier than those authored by academics and practitioners or by only practitioners?
+
+
+Literature Review
+
+
+Academics and practitioners, even if they are in the same field, are from different worlds. The differences between academics and practitioners are represented by the term “academic–practitioner gap”; this gap has long existed across disciplines and has been a topic in the literature.27 Academics are primarily from academic departments of higher education institutions and engage in research activities.28 Practitioners engage in the practice of a discipline, and their main tasks do not generally involve research and publication.29 This difference in the main tasks between academics and practitioners is the reason that the scientific community overlooks practitioner authors and academic–practitioner collaborations. However, this does not mean that practitioners do not make research contributions to their own disciplines. 
+
+
+Librarians are the main practitioners and knowledge contributors in the field of LIS.30 Some academic librarians in certain countries such as the United States are required to publish for promotion and continued employment.31 A 2011 survey targeting ARL academic libraries32 revealed that 60.2 percent of the 73 academic libraries identified required publications for promotion, continuing appointment, or both. A higher percentage of academic libraries offering faculty status to librarians had requirements for publications (72.5%) compared with other academic libraries. The substantial number of librarian authors justifies the establishment of “librarian” as an independent author category or even the further division of librarian authors into numerous groups, such as academic librarians and public librarians.33 
+
+
+Publication patterns of articles by librarians have been investigated for decades.34 Although some librarians with faculty status have to do research and publish, researchers of previous studies have not differentiated among LIS academics, librarians with faculty status, and librarians without faculty status. The main reason is that researchers cannot identify them from author affiliation information because faculty status information is not always indicated. Even if researchers could rely on author biographical information listed in publications, websites, and other reference sources, few researchers have been willing to undertake the intensive labor required to identify author type.35 Moreover, although the Association of College and Research Libraries has set standards for faculty librarians, faculty status for librarians is provided through various means.36 Not all academic librarians with faculty status share common tasks. Some institutions also expect librarians to conduct research and publish, even if they are not required to do that.37 The diverse characteristics of librarian tasks make investigating publications by librarians a challenge. Moreover, another problem has recently been identified: are librarians with faculty status researchers or practitioners?
+
+
+Regardless of whether librarians are expected or required to do research, they face several barriers. Numerous studies have mentioned that the largest problem librarians face is lack of sufficient time to do research.38 An ARL 2011 survey presented that half of the responding libraries where librarians hold faculty status, allowing them to use 1 to 5 work hours per week to perform research and publishing activities; by contrast, the other half allowed 6 to 10 work hours per week to perform these activities. In other words, assuming a 40-hour work week, librarians spend <25 percent of working hours on research activities. In fact, neither librarians nor faculty have sufficient time to conduct research.39 Bentley and Kyvik40 reported that the average research time of faculty members across 13 countries was 39 percent of their work hours; this average for faculty in the United States was 35.8 percent. Thus, the difference in the amount of research time provided to academics versus librarians is substantial. 
+
+
+In addition to the amount of research time allocated, research skills are another main barrier for the librarians required to perform research. This problem also highlights another relevant difference between librarians and academics.41 In particular, librarians have to learn about research design and data analysis.42 To boost librarians’ confidence in conducting research, professional continuing education programs are necessary and have been provided for librarians. Among the various means for enhancing librarians’ research skills (such as writing groups and research mentoring),43 taking research method courses while earning a graduate degree was considered to be the fastest.44 In addition, academics are well-prepared to perform research. This indicates that the partnering of librarians with academics is another approach that may help librarians overcome barriers to conducting research.
+
+
+Regarding librarians’ publication patterns, they generally release single-authored publications.45 Although a decline in sole authorship in LIS has been observed,46 the proportion of co-publications by practitioners remains low.47 Moreover, librarians tend to collaborate with other authors who have interests similar to their own.48 Other librarians were found to be the main collaborators of librarians, and they prefer topics related to library practice.49 This implies that librarians tend to have similar research interests, although variations in research topics exist. 
+
+
+Because the scientific community values collaboration and academic impact, it is necessary to fill the research gap regarding the academic impact of publications by LIS practitioners. Finlay et al.50 studied the academic impact of articles coauthored by at least one librarian and nonlibrarian and reported that these articles were cited twice as frequently as articles by only librarians; however, Finlay et al. divided authors into only librarian and nonlibrarian groups and did not distinguish single-authored articles from coauthored articles by only librarians. Their results thus did not reveal the differences in impact among various types of collaborative articles. Although academic–academic collaboration is the most prevalent,51 differences in the academic impact among academic–academic, academic–practitioner, and practitioner–practitioner collaborations remain unknown. Sife and Lwoga reported changes in the annual number of publications and citations received by each of 434 publications produced by academic librarians in Tanzania.52 However, the academic impact established by academic librarians was not further explored.
+
+
+Methodology
+
+
+Data Collection
+
+
+This study identified the types of authors of articles published in LIS journals based on authors’ occupation information. To select the sample articles for analysis, two processes were performed. First, the LIS journals to be examined were selected. Journals covered by Journal Citation Reports (JCR) are considered as leading journals in various disciplines. Therefore, LIS journal candidates were 85 titles classified as “information science & library science” by the 2016 version of JCR. To classify authors into academics, practitioners, and others, detailed author information including author job title listed in articles was a requirement for the selected journals. Each author’s occupation needed to be identified. However, most author affiliation information does not include the authors’ job titles. This made author biographical information, which is usually listed in the end of an article, a key information source for determining the type of author. However, articles in most LIS journals do not provide both author job titles and author biographical information; these journals were excluded. Other journals that had some articles listing author job titles or author biographical information were also excluded because the vast majority of the articles lacked the author information needed for this study. In addition, non-English-language journals were excluded. At this stage, only nine journals that met the study requirements were identified. Two out of nine journals were information science–oriented journals. Considering the differences in characteristics between library science journals and information science journals that have been emphasized,53 the two information science journals were also excluded to reduce the possibility of the results being affected by journal selection.
+
+
+Next, the coverage of the articles for this study was determined. Articles published between 2005 and 2014 were collected considering the appropriate time period for collecting the data citation counts received by the articles. The number of citations received by an article was used to measure academic impact in this study. To measure the academic impact, only one document type “articles” formed the sample data. Articles published very recently were excluded due to the lack of opportunity to receive many citations. Notably, social science articles require more time to receive citations than do natural science articles. After examining the proportion of articles that had at least one citation each year, a substantial increase in the proportion of articles with at least one citation was observed for articles published within the last four years. No noticeable increase was found in the proportion of articles with at least one citation when they had been published for five or more years. Thus, articles published from 2015 to 2018 (aged four years or less) were excluded because their academic impact had not had sufficient time to develop. 
+
+
+The number of articles covered by Scopus is larger than those included in the Web of Science citation index database, so a higher number of citations received by the same articles could be anticipated. To present the more complete academic impact of articles, Scopus was selected as the data source. Finally, the bibliographic records and number of citations of 1,388 articles of the seven selected journals published between 2005 and 2014 were retrieved over a three-day period (May 26–28, 2018) and converted from the Scopus citation index database.
+
+
+Data Processing
+
+
+Each author was classified by job title and the type of institution with which they were affiliated listed in articles. Authors were divided into three groups: academics, practitioners, and students. “Academics” refers to researchers whose main task is to do research and publishing. Faculty members with academic rank and researchers from universities and colleges accounted for the majority of academics.54 Students formed an individual group that included undergraduate, master’s level, and doctoral students. Students, academics, and other staff are the main components of universities. To identify specific author types, authors affiliated with universities were further categorized by their job titles. Authors with academic rank, including professors, associate professors, assistant professors, and lecturers, were labeled as academics. Authors affiliated with libraries and other non–degree-granting units were classified as practitioners. However, librarians with faculty status were marked as practitioner–researchers due to their dual roles as practitioners and researchers. Practitioner–researchers were identified from author biographical information attached to the end of full-text articles analyzed (for example: “Assistant Professor & Life Sciences Librarian”).
+
+
+After classifying type for each author, the specific type of research collaboration for each coauthored article could be determined. Four types of research collaboration were focused on in this study: 
+
+
+
+academic–academic (AA);
+academic–practitioner (AP);
+practitioner–practitioner (PP); and 
+other collaborations (T). 
+
+
+
+Single-author articles were also included. The academic–academic collaboration referred to articles by only academics, academic–practitioner collaboration referred to articles by both academics and practitioners, practitioner–practitioner collaboration referred to articles by only practitioners, and other collaborations referred to articles by authors with other types of affiliations, such as students. The number of authors per coauthored article was not limited to two. Therefore, a practitioner–practitioner article may be written by three librarians. Types of research collaboration, including collaboration with librarians with faculty status, were not formed because only 25 authors were identified as librarians with faculty status and each of them had only published single-authored articles. In addition, the length of time between the publication date and the first citation received for each article was calculated in the unit of months.
+
+
+Results
+
+
+Distribution of Articles by Type
+
+
+Approximately 53.9 percent of articles were coauthored, ranging between 38.6 and 68.3 percent for a given journal. Because LIS academics were the largest group of authors and they frequently collaborated with other academics in LIS,55 as expected, among the four types of coauthored articles, the proportion of articles from academic–academic collaborations was higher than that of articles from academic–practitioner and practitioner–practitioner collaborations. The number of articles from practitioner–practitioner collaboration was higher than that of academic–practitioner collaboration (15.1% vs. 10.4%). A chi-square test demonstrated a statistically significant difference in the distribution of the five types of articles consisting of four types of coauthored and single-authored articles (p = .000 < 0.05).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TABLE 1 
+
+
+
+
+Journal List
+
+
+
+
+Journal Titles
+
+
+No. of Articles, 2005–2014(%)
+
+
+S (%)
+
+
+PP (%)
+
+
+AA (%)
+
+
+AP (%)
+
+
+T (%)
+
+
+
+
+College & Research Libraries
+
+
+243
+(100.0%)
+
+
+77
+(31.7%)
+
+
+79
+(32.5%)
+
+
+41
+(16.9%)
+
+
+32
+(13.2%)
+
+
+14
+(5.8%)
+
+
+
+
+Information Technology and Libraries
+
+
+117
+(100.0%)
+
+
+41
+(35.0%)
+
+
+40
+(34.2%)
+
+
+21
+(17.9%)
+
+
+11
+(9.4%)
+
+
+4
+(3.4%)
+
+
+
+
+Library & Information Science Research
+
+
+250
+(100.0%)
+
+
+96
+(38.4%)
+
+
+5
+(2.0%)
+
+
+86
+(34.4%)
+
+
+24
+(9.6%)
+
+
+39
+(15.6%)
+
+
+
+
+Library Quarterly
+
+
+114
+(100.0%)
+
+
+70
+(61.4%)
+
+
+2
+(1.8%)
+
+
+20
+(17.5%)
+
+
+15
+(13.2%)
+
+
+7
+(6.1%)
+
+
+
+
+Library Resource & Technical Services
+
+
+119
+(100.0%)
+
+
+52
+(43.7%)
+
+
+43
+(36.1%)
+
+
+12
+(10.1%)
+
+
+10
+(8.4%)
+
+
+2
+(1.7%)
+
+
+
+
+Library Trends
+
+
+315
+(100.0%)
+
+
+189
+(60.0%)
+
+
+36
+(11.4%)
+
+
+49
+(15.6%)
+
+
+18
+(5.7%)
+
+
+23
+(7.3%)
+
+
+
+
+Libri
+
+
+230
+(100.0%)
+
+
+115
+(50.0%)
+
+
+7
+(3.0%)
+
+
+49
+(21.3%)
+
+
+32
+(13.9%)
+
+
+27
+(11.7%)
+
+
+
+
+Total
+
+
+1,388
+(100.0%)
+
+
+640
+(46.1%)
+
+
+212
+(15.3%)
+
+
+278
+(20.0%)
+
+
+142
+(10.2%)
+
+
+116
+(8.4%)
+
+
+
+
+Note: S refers to single-authored articles; PP refers to articles coauthored by only practitioners; AA refers articles coauthored by only academics; AP refers articles coauthored by academics and practitioners; T refers to other coauthored articles.
+
+
+
+
+
+
+
+Figure 1 shows the change in number of each of five types of articles by year. A slightly increasing trend was identified in all four types of coauthored articles. Although single-authored articles dominated each year, a decreasing trend was observed (see figure 2). Academics were the main contributors of single-authored articles and accounted for the largest part each year with an increasing trend.
+
+
+
+
+
+
+
+
+
+
+FIGURE 1
+
+
+
+
+Changes in Proportion of Five Types of Articles by Year
+
+
+
+
+
+
+
+
+
+Note: PP refers to articles coauthored by only practitioners; AA refers articles coauthored by only academics; AP refers articles coauthored by academics and practitioners; T refers to other coauthored articles.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FIGURE 2
+
+
+
+
+Changes in Number of Single-authored Articles by Year
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Impact of Articles by Type
+
+
+Table 2 shows the average number of citations received per article by type. The average number of citations received by a single-authored article was lower than that received by each type of coauthored article. AA articles received the highest average number of citations (14.8), followed by AP articles (11.6), PP articles (11.5), and T articles (10.3). Notably, AA articles had a larger standard deviation and featured a wider range of citation counts than other types of articles. A significant difference in average number of citations received among the five types of articles was confirmed by ANOVA tests with F(4, 1383) = 5.11 and p = 0.000 (in other words, <0.05). To ensure which two types of articles had reached a significant difference, a post-hoc test was conducted. A significant difference existed only between single-authored articles and AA articles (p = 0.000 < 0.05). When single-authored articles were further divided into four subgroups according to type of author, one specific type of single-authored articles (articles by one practitioner) was identified to have significant differences from AA articles (p = 0.004 < 0.05).
+
+
+
+
+
+
+
+
+
+
+
+
+
+TABLE 2
+
+
+
+
+Academic Impact of Articles 2004-2014
+
+
+
+
+Type of Articles
+
+
+Average No. of Citations
+
+
+Standard Division
+
+
+Range of No. of Citations
+
+
+
+
+AA articles
+
+
+14.8
+
+
+23.025
+
+
+0–228
+
+
+
+
+AP articles
+
+
+11.6
+
+
+12.839
+
+
+0–68
+
+
+
+
+PP articles 
+
+
+11.5
+
+
+12.726
+
+
+0–98
+
+
+
+
+T articles
+
+
+10.3
+
+
+12.514
+
+
+0–80
+
+
+
+
+Single-authored article 
+
+
+9.8
+
+
+13.485
+
+
+0–149
+
+
+
+
+ by single practitioner 
+
+
+8.8
+
+
+10.970
+
+ 
+
+
+
+ by single academic
+
+
+10.7
+
+
+15.578
+
+ 
+
+
+
+ by single practitioner-researcher
+
+
+11.6
+
+
+11.630
+
+ 
+
+
+
+ by single student 
+
+
+8.5
+
+
+9.827
+
+ 
+
+
+
+Note: PP refers to articles coauthored by only practitioners; AA refers articles coauthored by only academics; AP refers articles coauthored by academics and practitioners; T refers to other coauthored articles.
+
+
+
+
+
+
+
+Time Lag between Publication Date and First Citation 
+
+
+Figure 3 shows the average length of time and the range between minimum and maximum lengths of time for three types of coauthored articles receiving the first citation. The smallest difference between minimum and maximum time length was identified in AP articles (87 months), whereas the largest difference was in AA articles (104 months). A few articles (8 articles, 1.3% of 632 articles of three types) could receive the first citation before their publication date, as more and more journals now publish accepted articles online before the formal publication date. Although the possibility of AP, AA, and PP articles receiving attention before they are formally published is low, it can happen when there is a long time between the article being accepted, being accessible online, and published. From our own publication experience, this occurs when the entire process takes approximately two years or longer. Thus, it is possible for articles still awaiting formal publication to start receiving citations after they are published online.
+
+
+
+
+
+
+
+
+
+
+FIGURE 3
+
+
+
+
+Time Length for Three Types of Coauthored Articles Receiving First Citations
+
+
+
+
+
+
+
+
+
+Note: PP refers to articles coauthored by only practitioners; AA refers articles coauthored by only academics; AP refers articles coauthored by academics and practitioners.
+
+
+
+
+
+
+
+Table 3 shows the average number of citations received by three types of coauthored articles for each journal and the length of time in receiving the first citation. AA articles received the highest average number of citations in four journals. PP articles received the highest average number of citations in only one journal. AP articles received the highest average number of citations in three journals. Both AA and AP articles in Libri received the highest average number of citations. Regarding the average time length for receiving the first citation, the shortest time length was observed in AP articles of four journals, in AA articles of two journals, and in PP articles of one journal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TABLE 3
+
+
+
+
+Academic Impact of Articles by Journal and by Type
+
+
+
+
+Journal Titles
+
+
+Average Citation Per PP Article
+
+
+Average Citation Per AA Article
+
+
+Average Citation Per AP Article
+
+
+Average Time Length of Receiving First Citation for PP Articles
+
+
+Average Time Length of Receiving First Citation for AA Articles
+
+
+Average Time Length of Receiving First Citation for AP Articles
+
+
+
+
+College & Research Libraries
+
+
+16.7
+
+
+18.1
+
+
+19.8
+
+
+12.5
+
+
+15.0
+
+
+11.8
+
+
+
+
+Information Technology and Libraries
+
+
+9.9
+
+
+10.2
+
+
+15.6
+
+
+18.4
+
+
+17.2
+
+
+12.2
+
+
+
+
+Library & Information Science Research
+
+
+19.6
+
+
+22.3
+
+
+13.6
+
+
+8.2
+
+
+15.1
+
+
+14.0
+
+
+
+
+Library Quarterly
+
+
+6.5
+
+
+15.8
+
+
+9.1
+
+
+25.0
+
+
+11.1
+
+
+17.0
+
+
+
+
+Library Resources & Technical Services
+
+
+8.3
+
+
+2.7
+
+
+6.1
+
+
+17.3
+
+
+18.0
+
+
+11.3
+
+
+
+
+Library Trends
+
+
+6.8
+
+
+11.9
+
+
+6.3
+
+
+29.4
+
+
+16.5
+
+
+19.1
+
+
+
+
+Libri
+
+
+1.7
+
+
+6.2
+
+
+6.2
+
+
+18.8
+
+
+23.4
+
+
+17.8
+
+
+
+
+Average
+
+
+9.8
+
+
+12.5
+
+
+11.1
+
+
+18.6
+
+
+16.6
+
+
+17.8
+
+
+
+
+Note: PP refers to articles coauthored by only practitioners; AA refers articles coauthored by only academics; AP refers articles coauthored by academics and practitioners.
+
+
+
+
+
+
+
+Discussion and Conclusion
+
+
+This study confirmed that each type of coauthored article had greater average academic impact than did single-authored articles. When dividing articles into only two groups (single-authored articles vs. coauthored articles), a significant difference in the academic impact was confirmed between them according to a t test (p = .001 < 0.05). This is consistent with Levitt’s study that articles by at least two authors possess a substantial citation impact advantage in LIS.56 Moreover, the effect of research collaboration on academic impact of publications is positive.57 This suggests that academics and practitioners should collaborate with other academics and practitioners rather than publish single-authored articles to enhance academic impact. 
+
+
+Although academics have been regarded as the main scientific contributors to research, there was no significant difference in average number of citations of single-authored articles by single academics and that of articles by single practitioners. Moreover, no significant difference was found in average number of citations between any types of coauthored articles. This reveals that the type of author does not affect the academic impact of articles. The academic impact of articles by single practitioners and by academics and practitioners collaborating should not be overlooked. Due to higher academic impact hold by coauthored articles, it is a better strategy for a practitioner to collaborate with other practitioners or academics rather than publish by oneself. In particular, the shift from single authorship to coauthorship in LIS has been observed in this study and previous studies on LIS publications.58 Practitioners have to consider how to seek research partners.
+
+
+Although practitioners could collaborate with both academics and practitioners, there is greater opportunity for practitioners to collaborate with other practitioners due to differences in research topic preferences between academics and practitioners. Librarian authors tend to publish in library science–oriented and practice-oriented journals.59 This tendency is affected by their preference toward research topics related to library practice, such as library information resources, and library instruction.60 In other words, librarians have high interest to assess and improve library services, programs, and workflows.61 To ensure whether academics and practitioners each have their own preference for research topics, research topics of the five PP, five AP, and five AA articles with the highest number of citations were selected for further examined. The top five PP articles were published by academic librarians, and their research topics were related to library practice, including library usage, library websites, and information literacy. This is consistent with findings from prior studies that librarians prefer to explore topics related to library services and operations, such as electronic information services, library management, user needs, staff development, information resources, learning and information skills. Conversely, academics prefer to focus on LIS education.62 Although various more influential research topics were observed from PP, AP and AA articles, information literacy is a common research topic between academics and practitioners. When a research topic is contributed to by both academics and practitioners with various concerns and views, it can be enriched. This highlights the necessity and importance of collaboration between academics and practitioners. Generally, academics tend to have more theoretical discussions,63 whereas practitioners can provide more practical considerations. Academic–practitioner collaborations not only enable librarians to improve their research skills and gain experience but also provide academics with various points of view to enhance research quality. 
+
+
+In fact, both academic researchers and practitioners preferred to collaborate among themselves.64 Therefore, promoting academic–practitioner collaborations is more difficult than promoting practitioner–practitioner collaborations to practitioners. However, academic–practitioner collaboration still matters. Joint’s study claimed that the growth of LIS research relies on the collaboration between academics and practitioners because LIS is an applied field.65 Additionally, the current study found that AP articles could receive their first citations earlier than PP articles. Although AP articles were first cited only an average of 2.7 months earlier than PP articles, they were also first cited earlier than AA articles, implying a possible incentive for academic–practitioner collaboration. Although academic–practitioner collaboration brings positive impact on LIS research, a prerequisite to successful research collaboration is mutual understanding of the concerns that both academics and practitioners have regarding the research.66 Thus, facilitating research culture in libraries matters.67 Some universities have shared the methods they have adopted to encourage and support librarians to become involved in research.68 Furthermore, professional associations are regarded by researchers as the appropriate actor to facilitate the collaboration between academics and practitioners.69 Although collaborations between academics and practitioners in LIS vary from country to country, this study suggests that cases of academic–practitioner collaborations should be shared frequently to encourage practitioners to demonstrate their academic impact. 
+
+
+According to the findings of this study, practitioners should have more confidence to engage in research and publishing. The gap in the academic impact of articles by single academics and by single practitioners is not large; this is inconsistent with our original hypothesis. Librarian–academic collaborations should expand to research partnerships and not be limited to teaching activities.70 Two main limitations of this study may affect the interpretation of the study findings. First, only seven LIS journals were analyzed due to the limited number of journals that met the requirements for analysis. Second, only citation counts were used as a proxy for academic impact. Nevertheless, this study contributes evidence that encourages librarians to engage in collaborative research. To enhance the academic impact of articles by practitioners, practitioners should publish their research results in reputable journals and not be limited to publishing conference papers. With the growth of open access journals, librarians’ publication opportunity is also increasing.71
+
+
+In addition to obtaining research support from institutions including funding and guidance,72 to reduce the fear experienced by practitioners regarding insufficient research skills and experience, practitioners should seek opportunities for collaborating with academics by demonstrating the academic impact of practice-oriented research topics. Librarians with faculty status can play an important role in facilitating the research collaboration between academics and practitioners due to their familiarity with research and their practical knowledge. To increase their collaboration opportunities, librarians must demonstrate their value to the scholarly community. Publishing, including faculty–librarian collaboration publishing, is the optimal method of demonstrating the librarians’ value to their home institutions. Other feasible approaches include providing services and support emphasized by academics, such as providing research impact assessments, supporting funding and grant applications, and disseminating research output.73 To learn more about the academic impact of publications by practitioners, observing and tracking this issue is a worthwhile endeavor.
+
+
+Notes
+
+
+	1.	Andrea Bonaccorsi and Luca Secondi, “The Determinants of Research performance in European Universities: A Large Scale Multilevel Analysis,” Scientometrics 112, no. 3 (2017): 1147–78. 
+
+
+	2.	Teresa Penfield et al., “Assessment, Evaluations, and Definitions of Research Impact: A Review,” Research Evaluation 23, no. 1 (2014): 21–32, https://doi.org/10.1093/reseval/rvt021; Iman Tahamtan and Lutz Bornmann, “What Do Citation Counts Measure? An Updated Review of Studies on Citations in Scientific Documents Published between 2006 and 2018,” Scientometrics 121, no. 3 (2019): 1635–84.
+
+
+	3.	Mengxiong Liu, “Progress in Documentation the Complexities of Citation Practice: A Review of Citation Studies,” Journal of Documentation 49, no. 4 (1993): 370–408; Ludo Waltman, “A Review of the Literature on Citation Impact Indicators,” Journal of Informetrics 10, no. 2 (2016): 365–91; Dag W. Aksnes, Liv Langfeldt, and Paul Wouters, “Citations, Citation Indicators, and Research Quality: An Overview of Basic Concepts and Theories,” SAGE Open 9, no. 1 (2019), https://journals.sagepub.com/doi/10.1177/2158244019829575.
+
+
+	4.	Michael Sheppard, “The Impact of Quantitative Research in Social Work,” European Journal of Social Work 22, no. 1 (2019): 4–15; Hiroko Mori and Takeo Nakayama, “Academic Impact of Qualitative Studies in Healthcare: Bibliometric Analysis,” PLoS ONE 8, no. 3 (2013), https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0057371&type=printable; Zhang Jie, Su Xinning, and Deng Sanhong, “The Academic Impact of Chinese Humanities and Social Science Research,” Aslib Proceedings: New Information Perspectives 60, no. 1 (2008): 55–74.
+
+
+	5.	Alesia Zuccala, “Quality and Influence in Literary Work: Evaluating the ‘Educated Imagination’,” Research Evaluation 21, no. 3 (2012), 229–41; Aolan Shi and Loet Leydesdorff, “What Do the Cited and Citing Environments Reveal about Advances in Atmospheric Physics?” Advances in Atmospheric Sciences 28, no. 1 (2011): 238–44; Christopher P. Chambers and Alan D. Miller, “Scholarly Influence,” Journal of Economic Theory 151 (2014): 571–83; Martin Ravallion and Adam Wagstaff, “On Measuring Scholarly Influence by Citations,” Scientometrics 88, no. 1 (2011): 321–37.
+
+
+	6.	Charl C. Wolhuter, “The Scholarly Impact of Doctoral Research Conducted in the Field of Education in South Africa,” South African Journal of Education 35, no. 3 (2015), http://dx.doi.org/10.15700/SAJE.V35N3A1090; Kuku Joseph Aduku, Mike Thelwall, and Kayvan Kousha, “Do Mendeley Reader Counts Reflect the Scholarly Impact of Conference Papers? An Investigation of Computer Science and Engineering,” Scientometrics 112, no. 1 (2017): 573–81; Solomon Bopape, “Measuring the Scholarly and Judicial Impact of Accredited Legal Journals in South Africa,” African Journal of Library Archives and Information Science 27, no. 1 (2017): 53–64.
+
+
+	7.	Fen Zhao et al., “Measuring Academic Influence Using Heterogeneous Author-Citation Networks,” Scientometrics 118, no. 3 (2019): 1119–40; Xiaodan Zhu et al., “Measuring Academic Influence: Not All Citations Are Equal,” Journal of the Association for Information Science and Technology 66, no. 2 (2015): 408–27.
+
+
+	8.	Carter Bloch, Thomas K. Ryan, and Jens Peter Andersen, “Public-Private Collaboration and Scientific Impact: An Analysis Based on Danish Publication Data for 1995–2013,” Journal of Informetrics 13, no. 2 (2019): 593–604; William E. Schreiber and Dean M. Giustini, “Measuring Scientific Impact with the H-Index,” American Journal of Clinical Pathology 151, no. 3 (2019): 286–91.
+
+
+	9.	Jose A. García, Rosa Rodriguez‐Sánchez, and Joaquín Fdez‐Valdivia, “Social Impact of Scholarly Articles in a Citation Network,” Journal of the Association for Information Science and Technology 66, no. 1 (2015): 117–27; K. Delli et al., “Measuring the Social Impact of Dental Research: An Insight into the Most Influential Articles on the Web,” Oral Diseases 23, no. 8 (2017): 1155–61. 
+
+
+10.	Yu-Wei Chang, “The Influence of Taylor’s Paper, Question-Negotiation and Information-Seeking in Libraries,” Information Processing & Management 49, no. 5 (2013): 983–94; Yu-Wei Chang, “Influence of the Principle of Least Effort across Disciplines,” Scientometrics 106, no. 3 (2016): 1117–33; Aurora González-Teruel and Francisca Abad-García, “The Influence of Elfreda Chatman’s Theories: A Citation Context Analysis,” Scientometrics 117, no. 3 (2018): 1793–1819.
+
+
+11.	Anne E. Heberger, Christina A. Christie, and Marvin C. Alkin, “A Bibliometric Analysis of the Academic Influences of and on Evaluation Theorists’ Published Works,” American Journal of Evaluation 31, no. 1 (2010): 24–44.
+
+
+12.	Tahamtan and Bornmann, “What Do Citation Counts Measure?” 1635–84.
+
+
+13.	Kai A. Olsen and Alessio Malizia, “Counting Research ⇒ Directing Research: The Hazard of Using Simple Metrics to Evaluate Scientific Contributions: An EU Experience,” Journal of Electronic Publishing 20, no. 1 (2017): 3, http://dx.doi.org/10.3998/3336451.0020.102
+
+
+14.	Guillermo Armando Ronda-Pupo and J. Sylvan Katz, “The Power Law Relationship between Citation Impact and Multi-Authorship Patterns in Articles in Information Science & Library Science Journals,” Scientometrics 114, no. 3 (2018): 919–32.
+
+
+15.	Ali Gazni and Fereshteh Didegah, “Investigating Different Types of Research Collaboration and Citation Impact: A Case Study of Harvard University’s Publications,” Scientometrics 87, no. 2 (2011): 251–65; Manorama Tripathi, Sunil Kumar, and Parveen Babbar, “Bibliometrics of Social Science and Humanities Research in India,” Current Science 114, no. 11 (2018): 2240–47.
+
+
+16.	Selenay Aytac, “International Scholarly Collaboration in Science, Technology and Medicine and Social Science of Turkish Scientists,” International Information & Library Review 42, no. 4 (2010): 227–41; Christoph Bartneck and Jun Hu, “The Fruits of Collaboration in a Multidisciplinary Field,” Scientometrics 85, no. 1 (2010): 41–52.
+
+
+17.	Bartneck and Hu, “The Fruits of Collaboration in a Multidisciplinary Field,” 41–52; Omwoyo Bosire Onyancha, “Mapping Collaboration and Impact of Library and Information Science Research in Sub-Saharan Africa, from 1995 to 2016,” Library Management 69, no. 6/7 (2018): 349–63.
+
+
+18.	Shiji Chen, Clément Arsenault, and Vincent Larivière, “Are Top-cited Papers More Interdisciplinary?” Journal of Informetrics 9, no. 4 (2015): 1034–46; Zheng Xie et al., “Feature Analysis of Multidisciplinary Scientific Collaboration Patterns Based on PNAS,” EPJ Data Science 7, no. 1 (2018), https://epjdatascience.springeropen.com/track/pdf/10.1140/epjds/s13688-018-0134-z
+
+
+19.	Nicholas Joint, “Promoting Practitioner-Researcher Collaboration in Library and Information Science,” Library Review 54, no. 5 (2005): 289–94; Sarah Mcnicol and Dalton Pete, “Striking a Balance: Priorities for Research in LIS,” Library Review 53, no. 3 (2004): 167–76.
+
+
+20.	Yu‐Wei Chang, “A Comparison of Researcher-Practitioner Collaborations in Library and Information Science, Education, and Sociology,” Journal of Librarianship & Information Science 51, no. 1 (2019): 208–17; Yu‐Wei Chang, “Research Collaboration by Practitioners in Computer Science, Library Science, and Management,” portal: Libraries and the Academy 18, no. 3 (2018): 473–90.
+
+
+21.	Yu‐Wei Chang, “Comparative Study of Characteristics of Authors between Open Access and Non-Open Access Journals in Library and Information Science,” Library & Information Science Research 39, no. 1 (2017): 8–15. 
+
+
+22.	Chang, “Comparative Study of Characteristics of Authors between Open Access and Non-Open Access Journals in Library and Information Science.” 
+
+
+23.	Ann C. Weller, Julie M. Hurd, and Stephen E. Wiberley, “Publication Patterns of U.S. Academic Librarians from 1993 to 1997,” College & Research Libraries 60, no. 4 (1999): 352–62; S. Craig Finlay et al., “Publish or Practice? An Examination of Librarians’ Contributions to Research,” portal: Libraries and the Academy 13, no. 4 (2013): 403–21; Mahmoud Sherif Zakaria, “Scholarly Productivity of Arab Librarians in Library and Information Science Journals from 1981 to 2010: An Analytical Study,” IFLA Journal 41, no. 1 (2015): 70–79; Terry O’Brien and Kieran Cronin, “Research Output of Academic Librarians from Irish Higher Education Institutions 2000–2015: Findings From a Review, Analysis, and Survey,” New Review of Academic Librarianship 22, no. 2/3 (2016): 203–24; Marian Ramos-Eclevia et al., “Researching Together: Exploring Research Productivity and Collaboration of Librarians in ASEAN Countries,” Journal of the Australian Library and Information Association 67, no. 3 (2018): 307–20.
+
+
+24.	Kapseon Kim, “Perceived Barriers to Research Utilization by Korean University Librarians,” Journal of Academic Librarianship 31, no. 5 (2005), 438–48; Ijeoma J. Ibegbulam and Eze U. Jacintha, “Factors That Contribute to Research and Publication Output among Librarians in Nigerian University Libraries,” Journal of Academic Librarianship 42, no. 1 (2016): 15–20; Selinda A. Berg and Michelle Banks, “Beyond Competencies: Naming Librarians’ Capacity for Research,” Journal of Academic Librarianship 42, no. 4 (2016): 469–71; Kristin Hoffmann, Selinda Berg, and Denise Koufogiannakis, “Understanding Factors that Encourage Research Productivity for Academic Librarians,” Evidence Based Library and Information Practice 12, no. 4 (2017): 102–28, https://doi.org/10.18438/B8G66F. 
+
+
+25.	Chang, “A Comparison of Researcher-Practitioner Collaborations in Library and Information Science, Education, and Sociology,” 208–17; Chang, “Research Collaboration by Practitioners in Computer Science, Library Science, and Management,” 473–90; Chang, “Comparative Study of Characteristics of Authors between Open Access and Non-Open Access Journals in Library and Information Science,” 8–15.
+
+
+26.	Tai‐Quan Peng and Jonathan JH Zhu, “Where You Publish Matters Most: A Multilevel Analysis of Factors Affecting Citations of Internet Studies,” Journal of the American Society for Information Science and Technology 63, no. 9 (2012): 1789–1803; Minho Soi et al., “Factors Affecting Citation Networks in Science and Technology: Focused on Non-Quality Factors,” Quality & Quantity 49, no. 4 (2015): 1513–30.
+
+
+27.	Oleksandr Tkachenko, Huh-Jung Hahn, and Shari L. Peterson, “Research-Practice Gap in Applied Fields: An Integrative Literature Review,” Human Resource Development Review 16, no. 3 (2017): 235–62.
+
+
+28.	Marie Clarke, Abbey Hyde, and Jonathan Drennan, “Professional Identity in Higher Education,” in The Academic Profession in Europe: New Tasks and New Challenges, eds. Barbara M. Kehm and Ulrich Teichler (New York, NY: Springer, 2013), 7–20.
+
+
+29.	Kgomotso H. Moahi, “Library and Information Science Research in Botswana: An Analysis of Trends and Patterns,” African Journal of Library Archives and Information Science 18, no. 1 (2008): 13–26.
+
+
+30.	Deborah D. Blecic et al., “Publication Patterns of U.S. Academic Librarians and Libraries from 2003 to 2012,” College & Research Libraries 78, no. 4 (2017): 442–58; Chang, “Comparative Study of Characteristics of Authors between Open Access and Non-Open Access Journals in Library and Information Science,” 8–15.
+
+
+31.	Nathan Hosburgh, “Librarian Faculty Status: What Does It Mean in Academia?” Library Philosophy and Practice (2011), http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1603&context=libphilprac; Daniel Opoku, “Academic Status and Research Publication: The Dilemma of Librarians at the University of Ghana,” Information Development 29, no. 3 (2013): 233–40; Kanwal Ameena and Midrar Ullahb, “Challenges of Getting of Faculty Status: Perception of University Librarians in Pakistan,” International Information & Library Review 45 (2013): 83–91.
+
+
+32.	Catherina Sassen and Diane Wahl, “Fostering Research and Publication in Academic Libraries,” College & Research Libraries 75, no. 4 (2014): 458–80.
+
+
+33.	Chang, “Comparative Study of Characteristics of Authors between Open Access and Non-Open Access Journals in Library and Information Science,” 8–15; John N. Olsgaard and Jane Kinch Olsgaard, “Authorship in Five Library Periodicals,” College & Research Libraries 41, no. 1 (1980): 49–53; L. Buttlar, “Analyzing the Library Periodical Literature: Content and Authorship,” College & Research Libraries 52, no. 1 (1991): 38–53; Finlay et al., “Publish or Practice?” 403–21; Tami P. Sullivan et al., “The Researcher–Practitioner Partnership Study (RPPS): Experiences from Criminal Justice System Collaborations Studying Violence against Women,” Violence Against Women 23, no. 7 (2017): 887–907; Malik and Ameen, “Library and Information Science,” 555–71; Linh Cuong Nguyen and Philip Hider, “Narrowing the Gap between LIS Research and Practice in Australia,” Journal of the Australian Library and Information Association 67, no. 1 (2018): 3–19; Marisa Ponti, “Peer Production for Collaboration between Academics and Practitioners,” Journal of Librarianship and Information Science 45, no. 1 (2013): 23–37.
+
+
+34.	Weller, Hurd, and Wiberley, “Publication Patterns of U.S. Academic Librarians from 1993 to 1997,” 352–62; Finlay et al., “Publish or Practice?” 403–21; Zakaria, “Scholarly Productivity of Arab Librarians Librarians in Library and Information Science Journals from 1981 to 2010,” 70–79; O’Brien and Cronin, “Research Output of Academic Librarians from Irish Higher Education Institutions 2000–2015,” 203–24; Ramos-Eclevia et al., “Researching Together,” 307–20.
+
+
+35.	Chang, “Comparative Study of Characteristics of Authors between Open Access and Non-Open Access Journals in Library and Information Science,” 11.
+
+
+36.	Hosburgh, “Librarian Faculty Status.” 
+
+
+37.	Sarah Charing and Blair Gardiner, “The Push to Publish: What Is the Impetus for Australian Academic Librarians?” Journal of the Australian Library and Information Association 66, no. 4 (2017): 382–92.
+
+
+38.	Zara Wilkinson, “Rock around the (Tenure) Clock: Research Strategies for New Academic Librarians,” New Library World 114, no. 1 (2013): 54–66; Marie R. Kennedy and Kristine R. Brancolini, “Academic Librarian Research: An Update to a Survey of Attitudes, Involvement, and Perceived Capabilities,” College & Research Libraries 79, no. 6 (2018): 822–51.
+
+
+39.	Sassen and Wahl, “Fostering Research and Publication in Academic Libraries,” 458–80; Peter James Bentley and Svein Kyvik, “Individual Differences in Faculty Research Time Allocations across 13 Countries,” Research in Higher Education 54, no. 3 (2013): 329–48.
+
+
+40.	Bentley and Kyvik, “Individual Differences in Faculty Research Time Allocations across 13 Countries,” 329–48.
+
+
+41.	Wilkinson, “Rock around the (Tenure) Clock,” 54–66; Erin Ackermana, Jennifer Hunter, and Zara T. Wilkinson, “The Availability and Effectiveness of Research Supports for Early Career Academic Librarians,” Journal of Academic Librarianship 44, no. 5 (2018): 553–68.
+
+
+42.	Kennedy and Brancolini, “Academic Librarian Research,” 822–51; Liz Walkley Hall, “From Practice to Research at Flinders University Library: Sustaining a Research Culture,” Library Management 39, no. 8/9 (2018): 615–24.
+
+
+43.	Kennedy and Brancolini, “Academic Librarian Research,” 822–51.
+
+
+44.	Ackermana, Hunter, and Wilkinson, “The Availability and Effectiveness of Research Supports for Early Career Academic Librarians,” 553–68.
+
+
+45.	Ramos-Eclevia et al., “Researching Together,” 307–20.
+
+
+46.	Blecic et al., “Publication Patterns of U.S. Academic Librarians from 2003 to 2012,” 442–58.
+
+
+47.	Barbara Norelli and Timothy L. Harper, “Collaborative Scholarship in Academic Library Literature: Who, What, and When,” College and Undergraduate Libraries 20, no. 2 (2013): 173–96.
+
+
+48.	Mark Winston and James F. Williams, II, “Collaboration Between Practitioners and Teaching Faculty: A Study of Research, Publication, and Citation Patterns,” Journal of Education for Library and Information Science 44, no. 3/4 (2003): 221–34.
+
+
+49.	Chang, “Research Collaboration of Practitioners in Computer Science, Library Science, and Management,” 473–90; Chang, “A Comparison of Researcher-Practitioner Collaborations in Library and Information Science, Education, and Sociology,” 208–17; Yu‐Wei Chang, “Characteristics of Articles Coauthored by Researchers and Practitioners in Library and Information Science Journals,” Journal of Academic Librarianship 42, no. 5 (2016): 535–41.
+
+
+50.	Finlay et al., “Publish or Practice?” 403–21.
+
+
+51.	Chang, “Comparative Study of Characteristics of Authors between Open Access and Non-Open Access Journals in Library and Information Science,” 8–15; Chang, “Research Collaboration of Practitioners in Computer Science, Library Science, and Management,” 473–90.
+
+
+52.	Alfred Said Sife and Edda Tandi Lowga, “Publication Productivity and Scholarly Impact of Academic Librarians in Tanzania: A Scientometric Analysis,” New Library World 115, no. 11/12 (2014): 527–41.
+
+
+53.	Fredrik Åström, “Changes in the LIS Research Front: Time-Sliced Cocitation Analyses of LIS Journal Articles, 1990–2004,” Journal of the American Society for Information Science and Technology 58, no. 7 (2007): 947–57; Feifei Wang and Dietmar Wolfram, “Assessment of Journal Similarity Based on Citing Discipline Analysis,” Journal of the Association for Information Science and Technology 66, no. 6 (2015): 1189–98.
+
+
+54.	Federico Scarpa, Vincenzo Bianco, and Luca A. Tagliafico, “The Impact of the National Assessment Exercises on Self-Citation Rate and Publication Venue: An Empirical Investigation on the Engineering Academic Sector in Italy,” Scientometrics 117, no. 2 (2018): 997–1022; Mat D. Duerden et al., “Examining the Impact and Influence of the Leisure Science Literature,” Annals of Leisure Research 21, no. 2 (2018): 215–26.
+
+
+55.	Chang, “Comparative Study of Characteristics of Authors between Open Access and Non-Open Access Journals in Library and Information Science,” 10–11.
+
+
+56.	Winston and Williams, II, “Collaboration between Practitioners and Teaching Faculty,” 221–34.
+
+
+57.	Jonathan M. Levitt, “What Is the Optimal Number of Researchers for Social Science Research?” Scientometrics 102, no. 1 (2015): 213–25; Dorte Henriksen, “The Rise in Co-Authorship in the Social Sciences (1980–2013),” Scientometrics 107, no. 2 (2016): 455–76.
+
+
+58.	Iman Tahamtan et al., “Factors Affecting Number of Citations: A Comprehensive Review of the Literature,” Scientometrics 107, no. 3 (2016): 1195–1225; Mike Thelwall and Pardee Sud, “National, Disciplinary and Temporal Variations in the Extent to Which Articles with More Authors Have More Impact: Evidence from a Geometric Field Normalised Citation Indicator,” Journal of Informetrics 10, no. 1 (2016): 48–61.
+
+
+59.	Jordi Ardanuy, “Scientific Collaboration in Library and Information Science Viewed through the Web of Knowledge: The Spanish Case,” Scientometrics 90, no. 3 (2012): 877–90; Ji-Hong Park and Eunkyung Nam, “Intra- and Inter-institutional Collaborative Pairing Trends of LIS Field in South Korea,” Libri 66, no. 2 (2016): 125–36, https://doi.org/10.1515/libri-2015-0096.
+
+
+60.	Chang, “Characteristics of Articles Coauthored by Researchers and Practitioners in Library and Information Science Journals,” 535–41; Finlay et al., “Publish or Practice?” 403–21; Molly Higgins et al., “Better Together: An Examination of Collaborative Publishing between Librarians and STEM and Health Sciences Faculty,” Issues in Science and Technology Librarianship 86 (2017), www.istl.org/17-spring/refereed2.html.
+
+
+61.	Chang, “Characteristics of Articles Coauthored by Researchers and Practitioners in Library and Information Science Journals,” 535–41; Higgins et al., “Better Together.” 
+
+
+62.	Diane Mizrachi, “Librarians Conducting Library Research: What Is Happening outside the Academy?” in Research outside the Academy: Professional Knowledge-Making in the Digital Age, eds. Lisa Börjesson and Isto Huvila (London, UK: Palgrave Macmillan, Cham, 2018), 89–106.
+
+
+63.	Mcnicol and Pete, “Striking a Balance,” 167–76; Nguyen and Hider, “Narrowing the Gap between LIS Research and Practice in Australia,” 3–19.
+
+
+64.	Nguyen and Hider, “Narrowing the Gap between LIS Research and Practice in Australia,” 3–19.
+
+
+65.	Chang, “Characteristics of Articles Coauthored by Researchers and Practitioners in Library and Information Science Journals,” 535–41.
+
+
+66.	Joint, “Promoting Practitioner-Researcher Collaboration in Library and Information Science,” 289–94.
+
+
+67.	Joint, “Promoting Practitioner-Researcher Collaboration in Library and Information Science,” 289–94
+
+
+68.	Ramos-Eclevia et al., “Researching Together,” 307–20.
+
+
+69.	Hall, “From Practice to Research at Flinders University Library,” 615–24; Miggie Pickton, “Facilitating a Research Culture in an Academic Library: Top Down and Bottom Up Approaches,” New Library World 117, no. 1/2 (2016): 105–27.
+
+
+70.	Malik and Ameen, “Library and Information Science,” 555–71; Nguyen and Hider, “Narrowing the Gap between LIS Research and Practice in Australia,” 3–19.
+
+
+71.	Helen Yueping He, Madeline Gerbig, and Sabrina Kirby, “Needs Assessment for Improving Library Support for Dentistry Researchers,” Journal of the Medical Library Association 107, no. 3 (2019): 352–63, http://jmla.pitt.edu/ojs/jmla/article/view/556/865; Inuwa A. Samaila and Abrizah Auckland, “Embedded Librarianship in Research in Nigerian Universities: Practices and Sources of Practice Knowledge,” Journal of Academic Librarianship 44, no. 6 (2018): 738–46.
+
+
+72.	Charing and Gardiner, “The Push to Publish,” 382–92.
+
+
+73.	Ackermana, Hunter, and Wilkinson, “The Availability and Effectiveness of Research Supports for Early Career Academic Librarians,” 553–68.
+
+
+
+
+* Yu-Wei Chang is a professor at National Taiwan University; email: yuweichang2013@ntu.edu.tw. ©2021 Yu-Wei Chang, Attribution-NonCommercial (https://creativecommons.org/licenses/by-nc/4.0/) CC BY-NC.
+
+
+
+
